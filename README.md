@@ -1,4 +1,4 @@
-# colmeia_challenger
+# colmeia_challenge
 
 ![ParseServer](https://raw.githubusercontent.com/parse-community/parse-server/master/.github/parse-server-logo.png)
 
