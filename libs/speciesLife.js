@@ -1,8 +1,5 @@
 async function speciesLife(Parse) {
 	
-	//37 total
-	//16 elementos com type number
-	
 	let Specie = Parse.Object.extend("Specie");
     let query = new Parse.Query(Specie);
 	
