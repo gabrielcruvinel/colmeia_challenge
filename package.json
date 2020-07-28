@@ -1,7 +1,7 @@
 {
   "name": "colmeia_challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Connect to a Parse-Server",
   "main": "index.js",
   "scripts": {
     "test": "jest"
