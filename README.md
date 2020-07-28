@@ -3,7 +3,7 @@
 ![ParseServer](https://raw.githubusercontent.com/parse-community/parse-server/master/.github/parse-server-logo.png)
 
 
-API Client Parse Server in Node.js
+API Client Parse Server in Node.js 
 
 
 ## Install
