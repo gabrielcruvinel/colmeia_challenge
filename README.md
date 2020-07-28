@@ -6,7 +6,7 @@
 API Client Parse Server in Node.js
 
 
-## Instalation
+## Install
 
 ```
   npm install
