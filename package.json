@@ -1,0 +1,19 @@
+{
+  "name": "colmeia_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gabriel Cruvinel",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "dotenv": "^8.2.0",
+    "parse": "^2.15.0"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
